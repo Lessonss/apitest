@@ -1,0 +1,28 @@
+[
+  {
+    "isim": "Futbol",
+    "logo": "logo.jpg",
+    "aciklama": "Futbol oyunu"
+  },
+   {
+    "isim": "Basketbol",
+    "logo": "logo.jpg",
+    "aciklama": "Basketbol oyunu"
+  }, {
+    "isim": "Hentbol",
+    "logo": "logo.jpg",
+    "aciklama": "Hentbol oyunu"
+  }, {
+    "isim": "Voleybol",
+    "logo": "logo.jpg",
+    "aciklama": "Voleybol oyunu"
+  }, {
+    "isim": "Hentbol",
+    "logo": "logo.jpg",
+    "aciklama": "Hentbol oyunu"
+  }, {
+    "isim": "Boks",
+    "logo": "logo.jpg",
+    "aciklama": "Boks sporu"
+  }
+]
