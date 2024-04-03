@@ -1,0 +1,70 @@
+[
+  {
+    "isim": "Futbol",
+    "logo": "https://raw.githubusercontent.com/Lessonss/apitest/main/futbol.jpg",
+    "aciklama": "Futbol oyunu",
+     "urunler": [
+    {
+      "urunAdi": "Futbol Topu",
+      "fiyat": "50"
+    },
+    {
+      "urunAdi": "Futbol Forması",
+      "fiyat": "100"
+    }]
+    
+  },
+   {
+    "isim": "Basketbol",
+    "logo": "https://raw.githubusercontent.com/Lessonss/apitest/main/basketbol.jpg",
+    "aciklama": "Basketbol oyunu",
+       "urunler": [
+    {
+      "urunAdi": "Basketbol Topu",
+      "fiyat": "50"
+    },
+    {
+      "urunAdi": "Basketbol Forması",
+      "fiyat": "100"
+    }]
+  }, {
+    "isim": "Hentbol",
+    "logo": "https://raw.githubusercontent.com/Lessonss/apitest/main/hentbol.jpg",
+    "aciklama": "Hentbol oyunu",
+         "urunler": [
+    {
+      "urunAdi": "Hentbol Topu",
+      "fiyat": "50"
+    },
+    {
+      "urunAdi": "Hentbol Forması",
+      "fiyat": "100"
+    }]
+  }, {
+    "isim": "Voleybol",
+    "logo": "https://raw.githubusercontent.com/Lessonss/apitest/main/voleybol.jpg",
+    "aciklama": "Voleybol oyunu",
+         "urunler": [
+    {
+      "urunAdi": "Voleybol Topu",
+      "fiyat": "50"
+    },
+    {
+      "urunAdi": "Voleybol Forması",
+      "fiyat": "100"
+    }]
+  }, {
+    "isim": "Boks",
+    "logo": "https://raw.githubusercontent.com/Lessonss/apitest/main/boks.jpg",
+    "aciklama": "Boks sporu"i
+         "urunler": [
+    {
+      "urunAdi": "Boks Eldiveni",
+      "fiyat": "50"
+    },
+    {
+      "urunAdi": "Boks Bileti",
+      "fiyat": "100"
+    }]
+  }
+]
