@@ -1,24 +1,24 @@
 [
   {
     "isim": "Futbol",
-    "logo": "logo.jpg",
+    "logo": "https://raw.githubusercontent.com/Lessonss/apitest/main/futbol.jpg",
     "aciklama": "Futbol oyunu"
   },
    {
     "isim": "Basketbol",
-    "logo": "logo.jpg",
+    "logo": "https://raw.githubusercontent.com/Lessonss/apitest/main/basketbol.jpg",
     "aciklama": "Basketbol oyunu"
   }, {
     "isim": "Hentbol",
-    "logo": "logo.jpg",
+    "logo": "https://raw.githubusercontent.com/Lessonss/apitest/main/hentbol.jpg",
     "aciklama": "Hentbol oyunu"
   }, {
     "isim": "Voleybol",
-    "logo": "logo.jpg",
+    "logo": "https://raw.githubusercontent.com/Lessonss/apitest/main/voleybol.jpg",
     "aciklama": "Voleybol oyunu"
   }, {
     "isim": "Boks",
-    "logo": "logo.jpg",
+    "logo": "https://raw.githubusercontent.com/Lessonss/apitest/main/boks.jpg",
     "aciklama": "Boks sporu"
   }
 ]
